@@ -9,13 +9,34 @@ body{
 header{
   height: 200px;
   text-align: center;
+  margin-top: 50px;
 }
+
+.title{
+  margin-right: 700px;
+  font-size: 48px;
+  letter-spacing: 0.2em;
+}
+
 .maincon{
   text-align: center;
 }
-/* .test{
-  height: 1200px;
-} */
+
+nav{
+  right: 0;
+}
+ul{
+  list-style: none;
+  display: inline-flex;
+  margin-left: 750px;
+  letter-spacing: 0.1em;
+}
+
+li{
+  margin: 0 1em;
+}
+
+
 footer{
   height: 200px;
   background-color: red;
@@ -26,4 +47,9 @@ footer{
   width: 250px;
   border-radius: 40%;
   border: solid;
+}
+
+a{
+  text-decoration: none;
+  color: #333333;
 }
