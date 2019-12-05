@@ -7,23 +7,20 @@
   <body>
     <header>
       <h1>
-        test
+        ぽーとふぉりお題名
       </h1>
       <nav>
         <ul>
           <li>
-            a
+            ぷろふ
           </li>
           <li>
-            b
+            あpp
           </li>
         </ul>
       </nav>
     </header>
     @yield('main')
-    <footer>
-      test
-    </footer>
   </body>
 
 </html>
