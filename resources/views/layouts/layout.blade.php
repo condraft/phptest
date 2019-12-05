@@ -7,15 +7,15 @@
   <body>
     <header>
       <h1>
-        ぽーとふぉりお題名
+        About Ikumi
       </h1>
       <nav>
         <ul>
           <li>
-            ぷろふ
+            Profile
           </li>
           <li>
-            あpp
+            App
           </li>
         </ul>
       </nav>

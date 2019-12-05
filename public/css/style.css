@@ -2,16 +2,28 @@ body{
   margin: 0;
   padding: 0;
   background-color: #F4F5F7;
+  font-family: Helvetica, '游ゴシック', 'Yu Gothic','メイリオ',sans-serif;
+  color: #333333;
 }
 
 header{
   height: 200px;
-  background-color: pink;
+  text-align: center;
 }
-.test{
+.maincon{
+  text-align: center;
+}
+/* .test{
   height: 1200px;
-}
+} */
 footer{
   height: 200px;
   background-color: red;
+}
+
+.prophoto{
+  height: 250px;
+  width: 250px;
+  border-radius: 40%;
+  border: solid;
 }
