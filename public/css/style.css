@@ -1,5 +1,17 @@
 body{
   margin: 0;
   padding: 0;
-  background-color: aqua;
+  background-color: #F4F5F7;
+}
+
+header{
+  height: 200px;
+  background-color: pink;
+}
+.test{
+  height: 1200px;
+}
+footer{
+  height: 200px;
+  background-color: red;
 }
