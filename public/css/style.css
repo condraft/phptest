@@ -19,7 +19,7 @@ header{
 }
 
 .maincon{
-  text-align: center;
+  margin: 0 auto;
 }
 
 nav{
@@ -36,7 +36,23 @@ li{
   margin: 0 1em;
 }
 
-
+.profile{
+  display: flex;
+  width: 1080px;
+  margin: 50px auto;
+}
+.pass{
+  margin: 0 50px;
+}
+.study{
+ 
+}
+.prophoto{
+ 
+}
+.setumei{
+  font-size: 16px;
+}
 footer{
   height: 200px;
   background-color: red;
@@ -52,4 +68,9 @@ footer{
 a{
   text-decoration: none;
   color: #333333;
+}
+#app{
+  clear: both;
+  width: 1080px;
+  margin: 0 auto;
 }

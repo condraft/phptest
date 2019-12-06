@@ -19,7 +19,7 @@
             <a href='#app'>App</a>
           </li>
           <li class='titleli'>
-            <a href='#app'>App</a>
+            <a href='https://twitter.com/ikumidddd'target="_blank"><i class="fab fa-twitter"></i></a>
           </li>
         </ul>
       </nav>
