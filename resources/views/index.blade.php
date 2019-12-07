@@ -23,30 +23,18 @@
   </h2>
   <h2 id='app'>
     App
-    <p class='setumei'>
-    <a href='http://54.238.5.113/'target="_blank">某フリマアプリクローン<i class="fas fa-external-link-alt"></i></a>
+    <p class='apptitle'>
+    <a href='http://54.238.5.113/'target="_blank" class="applink">某フリマアプリクローン<i class="fas fa-external-link-alt"></i></a>
     </p>
-    <p class='setumei'>
+    <p class='appsetumei'>
       TechExpertにてチームで開発したクローンアプリです。
     </p>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
-    <div>
-      aaaaaaaaaaaaaaaaaaaaaaaaaa
-    </div>
+    <p class='apptitle'>
+    <a href='http://3.113.172.11/'target="_blank" class="applink">個人ブログ<i class="fas fa-external-link-alt"></i></a>
+    </p>
+    <p class='appsetumei'>
+      趣味が旅行の私が、旅先での記録を残すために作成した写真ブログです。
+    </p>
   </h2>
 </div>
 

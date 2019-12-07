@@ -74,3 +74,15 @@ a{
   width: 1080px;
   margin: 0 auto;
 }
+
+.apptitle{
+  font-size: 16px;
+  
+}
+.applink{
+  color: darkcyan;
+}
+
+.appsetumei{
+  font-size: 16px;
+}
