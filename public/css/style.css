@@ -73,11 +73,12 @@ a{
   clear: both;
   width: 1080px;
   margin: 0 auto;
+  letter-spacing: 0.1em;
 }
 
 .apptitle{
   font-size: 16px;
-  
+  letter-spacing: 0;
 }
 .applink{
   color: darkcyan;
