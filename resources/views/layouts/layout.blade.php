@@ -2,8 +2,8 @@
 <html>
   <head>
     <title>Ikumiのポートフォリオ</title>
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
   </head>
   <body>
     <header>
