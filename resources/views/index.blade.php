@@ -30,10 +30,16 @@
       TechExpertにてチームで開発したクローンアプリです。
     </p>
     <p class='apptitle'>
-    <a href='http://3.113.172.11/'target="_blank" class="applink">個人ブログ<i class="fas fa-external-link-alt"></i></a>
+    <a href='http://3.113.172.11/'target="_blank" class="applink">写真投稿サイト<i class="fas fa-external-link-alt"></i></a>
     </p>
     <p class='appsetumei'>
-      趣味が旅行の私が、旅先での記録を残すために作成した写真ブログです。
+      趣味が旅行の私が、旅先での記録を残すために作成した写真投稿サイトです。
+    </p>
+    <p class='apptitle'>
+    <a href='https://condraftodo.com/'target="_blank" class="applink">個人ブログ<i class="fas fa-external-link-alt"></i></a>
+    </p>
+    <p class='appsetumei'>
+      wordpressやphpの勉強のため作成し、趣味や技術的な記事を書いていく予定の個人ブログです。
     </p>
   </h2>
 </div>
