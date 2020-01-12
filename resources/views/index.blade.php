@@ -41,6 +41,12 @@
     <p class='appsetumei'>
       wordpressやphpの勉強のため作成し、趣味や技術的な記事を書いていく予定の個人ブログです。
     </p>
+    <p class='apptitle'>
+    <a href='https://condraft46.herokuapp.com/'target="_blank" class="applink">簡易つぶやきアプリ<i class="fas fa-external-link-alt"></i></a>
+    </p>
+    <p class='appsetumei'>
+      SQLの勉強のためフレームワークをつかわずPHPのみで作成したつぶやきアプリです。
+    </p>
   </h2>
 </div>
 
